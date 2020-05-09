@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.69eda509.chunk.css",
-    "main.js": "/static/js/main.ebe08d54.chunk.js",
-    "main.js.map": "/static/js/main.ebe08d54.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0da35d89.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0da35d89.js.map",
-    "static/js/2.7c267f51.chunk.js": "/static/js/2.7c267f51.chunk.js",
-    "static/js/2.7c267f51.chunk.js.map": "/static/js/2.7c267f51.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7e5bcfff5465e3c25b71577367cecd6b.js": "/precache-manifest.7e5bcfff5465e3c25b71577367cecd6b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.69eda509.chunk.css.map": "/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.7c267f51.chunk.js.LICENSE.txt": "/static/js/2.7c267f51.chunk.js.LICENSE.txt",
-    "static/media/house1.jpeg": "/static/media/house1.b078b5b9.jpeg",
-    "static/media/logoWhite.svg": "/static/media/logoWhite.7de22b22.svg"
+    "main.css": "/howardhavens/static/css/main.69eda509.chunk.css",
+    "main.js": "/howardhavens/static/js/main.ebe08d54.chunk.js",
+    "main.js.map": "/howardhavens/static/js/main.ebe08d54.chunk.js.map",
+    "runtime-main.js": "/howardhavens/static/js/runtime-main.aa22693b.js",
+    "runtime-main.js.map": "/howardhavens/static/js/runtime-main.aa22693b.js.map",
+    "static/js/2.44dc401e.chunk.js": "/howardhavens/static/js/2.44dc401e.chunk.js",
+    "static/js/2.44dc401e.chunk.js.map": "/howardhavens/static/js/2.44dc401e.chunk.js.map",
+    "index.html": "/howardhavens/index.html",
+    "precache-manifest.23c34fe4c6aa16314be858a9c8cfdccb.js": "/howardhavens/precache-manifest.23c34fe4c6aa16314be858a9c8cfdccb.js",
+    "service-worker.js": "/howardhavens/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/howardhavens/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.44dc401e.chunk.js.LICENSE.txt": "/howardhavens/static/js/2.44dc401e.chunk.js.LICENSE.txt",
+    "static/media/house1.jpeg": "/howardhavens/static/media/house1.b078b5b9.jpeg",
+    "static/media/logoWhite.svg": "/howardhavens/static/media/logoWhite.7de22b22.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0da35d89.js",
-    "static/js/2.7c267f51.chunk.js",
+    "static/js/runtime-main.aa22693b.js",
+    "static/js/2.44dc401e.chunk.js",
     "static/css/main.69eda509.chunk.css",
     "static/js/main.ebe08d54.chunk.js"
   ]
